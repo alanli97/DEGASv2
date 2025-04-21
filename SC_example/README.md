@@ -1,0 +1,1 @@
+# SC Example Folder
